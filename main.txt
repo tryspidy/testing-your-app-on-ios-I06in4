@@ -1,0 +1,9 @@
+Open XCode, then open "Preferences>Accounts". Sign in with your ID.
+
+"Manage Certificates" > click on the "+" sign and select "iOS Development".
+
+Plug your device into your machine. Find your device in the drop down (Window > Organizer).
+
+Below the Team pop-up menu, click Fix Issue.
+
+In Xcode, click the Run button
